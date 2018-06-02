@@ -1,0 +1,15 @@
+﻿  Diccionario.cpp
+c:\users\manu\desktop\universidad\2º informatica\1º cuatrimestre\estructuras de datos\practicas nuevas\practica 7\practica 7 tabla hash cerrada\tablahashcerrada.h(248): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  c:\users\manu\desktop\universidad\2º informatica\1º cuatrimestre\estructuras de datos\practicas nuevas\practica 7\practica 7 tabla hash cerrada\tablahashcerrada.h(241): note: durante la compilación de la función miembro de plantilla clase de 'unsigned int TablaHashCerrada<Palabra>::calcularPrimoRelativo(void)'
+  c:\users\manu\desktop\universidad\2º informatica\1º cuatrimestre\estructuras de datos\practicas nuevas\practica 7\practica 7 tabla hash cerrada\tablahashcerrada.h(95): note: vea la referencia a la creación de instancias de plantilla de función 'unsigned int TablaHashCerrada<Palabra>::calcularPrimoRelativo(void)' que se está compilando
+  c:\users\manu\desktop\universidad\2º informatica\1º cuatrimestre\estructuras de datos\practicas nuevas\practica 7\practica 7 tabla hash cerrada\tablahashcerrada.h(99): note: durante la compilación de la función miembro de plantilla clase de 'TablaHashCerrada<Palabra>::TablaHashCerrada(const TablaHashCerrada<Palabra> &)'
+  c:\users\manu\desktop\universidad\2º informatica\1º cuatrimestre\estructuras de datos\practicas nuevas\practica 7\practica 7 tabla hash cerrada\diccionario.cpp(13): note: vea la referencia a la creación de instancias de plantilla de función 'TablaHashCerrada<Palabra>::TablaHashCerrada(const TablaHashCerrada<Palabra> &)' que se está compilando
+  c:\users\manu\desktop\universidad\2º informatica\1º cuatrimestre\estructuras de datos\practicas nuevas\practica 7\practica 7 tabla hash cerrada\diccionario.h(16): note: vea la referencia a la creación de instancias de plantilla clase de 'TablaHashCerrada<Palabra>' que se está compilando
+  Generando código...
+  Compilando...
+  Usuario.cpp
+  TextoPredictivo.cpp
+  Practica7TablaHashCerrada.cpp
+  Generando código...
+  Practica 7 Tabla Hash Cerrada.vcxproj -> C:\Users\Manu\Desktop\Universidad\2º Informatica\1º Cuatrimestre\Estructuras de datos\Practicas nuevas\Practica 7\Debug\Practica 7 Tabla Hash Cerrada.exe
+  Practica 7 Tabla Hash Cerrada.vcxproj -> C:\Users\Manu\Desktop\Universidad\2º Informatica\1º Cuatrimestre\Estructuras de datos\Practicas nuevas\Practica 7\Debug\Practica 7 Tabla Hash Cerrada.pdb (Partial PDB)
