@@ -1,0 +1,11 @@
+========================================================================
+    CONSOLE APPLICATION : ConsoleApplication2 Project Overview
+========================================================================
+
+Esta practica se puede ejecutar de dos maneras, por consola, buscando el ejecutable 
+de la aplicacion (PracticaVectorEstatico.exe) o desde un entorno de programacion clicando 
+en PracticaVectorEstatico.sln o PracticaVectorEstatico.sdf (Versiones 2015 y 2017 de visual
+studio respectivamente)
+
+Uso: La aplicacion te permite buscar una palabra de tu eleccion entre un diccionario 
+de 80383 palabras
