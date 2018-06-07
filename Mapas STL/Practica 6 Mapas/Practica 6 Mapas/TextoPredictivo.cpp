@@ -50,7 +50,7 @@ Usuario* TextoPredictivo::obtenerUsuario(const std::string &id) {
 	std::map<std::string, Usuario>::iterator miIt = misUsuarios.find(id);
 	if (miIt == misUsuarios.end()) {
 
-		throw std::out_of_range("pollas");
+		throw std::out_of_range("Out of range in obtenerUsuario");
 	}
 	return &(miIt->second);
 }
